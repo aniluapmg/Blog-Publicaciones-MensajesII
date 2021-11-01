@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_10_12_145333) do
+ActiveRecord::Schema.define(version: 2021_10_30_153842) do
 
   create_table "blogs", charset: "utf8", collation: "utf8_bin", force: :cascade do |t|
     t.string "name"
